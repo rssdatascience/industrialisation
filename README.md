@@ -11,3 +11,10 @@
  ## Feedback
 
 We welcome your feedback on these 12 questions. Please raise an [issue](https://github.com/rssdatascience/industrialisation/issues) if you agree, disagree, or want to make a suggestion.
+
+You can also get in touch with us in the following ways:
+
+* Slack: [https://rssdatascience.slack.com](https://rssdatascience.slack.com)
+* LinkedIN: [https://www.linkedin.com/company-beta/11150048/](https://www.linkedin.com/company-beta/11150048/)
+* Twitter: [https://twitter.com/RSS_DSS](https://twitter.com/RSS_DSS)
+
