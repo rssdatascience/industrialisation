@@ -2,7 +2,7 @@
 
 Ways to get in get in touch with the Data Science Section:
 
-* Slack: [https://rssdatascience.slack.com](https://rssdatascience.slack.com)
+* Slack: [https://rssdatascience.slack.com](https://rssdatascience.slack.com) (you may need to email us at [datascience@rss.org.uk](mailto://datascience@rss.org.uk) for an invite).
 * LinkedIN: [https://www.linkedin.com/company-beta/11150048/](https://www.linkedin.com/company-beta/11150048/)
 * Github: [https://github.com/rssdatascience](https://github.com/rssdatascience)
 * Twitter: [https://twitter.com/RSS_DSS](https://twitter.com/RSS_DSS)

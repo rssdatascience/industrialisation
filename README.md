@@ -14,7 +14,8 @@ We welcome your feedback on these 12 questions. Please raise an [issue](https://
 
 You can also get in touch with us in the following ways:
 
-* Slack: [https://rssdatascience.slack.com](https://rssdatascience.slack.com)
+* Email: [datascience@rss.org.uk](mailto://datascience@rss.org.uk)
+* Slack: [https://rssdatascience.slack.com](https://rssdatascience.slack.com) (you may need to [email](datascience@rss.org.uk) us for an invite).
 * LinkedIN: [https://www.linkedin.com/company-beta/11150048/](https://www.linkedin.com/company-beta/11150048/)
 * Twitter: [https://twitter.com/RSS_DSS](https://twitter.com/RSS_DSS)
 
