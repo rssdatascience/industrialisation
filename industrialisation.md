@@ -10,6 +10,21 @@ Ways to get in get in touch with the Data Science Section:
 # The Industrialisation and Professionalisation of Data Science: 12 Questions
 This document is available on Github: [https://github.com/rssdatascience/industrialisation/](https://github.com/rssdatascience/industrialisation/)
  
+## The twelve questions
+
+1. What does great data science look like?
+2. What does a good data science workflow look like
+3. What kind of problems can be addressed by data science?
+4. What are the characteristics of the ideal data scientist?
+5. How should an organisation start a data science function?
+6. How should data science fit into the structure of an organisation?
+7. How should business practices change to make a success of data science?
+8. What do executives and managers need to learn about data science?
+9. How can an organisation build a coherent data science capability from a collection of data science projects?
+10. What career paths are available to a data scientist?
+11. How can data scientists measure the value they create?
+12. What is a data scientist’s responsibility to wider society?
+
 ## Introduction
  
 While the application of pattern recognition technology to large datasets has revolutionised the digital economy, outside the tech giants like Google and Amazon, Data Science (DS) is still a cottage industry with small teams of artisan DS crafting bespoke prototypes to their own standards.  For DS is to fulfil its promise, it needs to industrialise and professionalise. By this we mean DS needs to develop a consensus about how organisations can evaluate, deploy and institutionalise DS to demonstrate sustainable value. Without this, decision makers in organisations that might benefit from DS will struggle to get the promised benefits and it risks being viewed as another IT fad which will pass into history. At the very least, without industrialisation the adoption of this new technology will be delayed, and the opportunity for UK to be at the heart of it may be lost.
